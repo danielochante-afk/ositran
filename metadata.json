@@ -1,0 +1,6 @@
+{
+  "name": "OSITRAN Yurimaguas: Presentación Regulatoria (MGPD02)",
+  "description": "Presentación interactiva y exportador a Google Slides sobre la Fijación Tarifaria del Terminal Portuario de Yurimaguas - Nueva Reforma (Resolución N° 043-2016-CD-OSITRAN) conforme a los lineamientos y rúbrica MGPD02 de la Escuela de Gestión Pública.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
